@@ -1,6 +1,5 @@
 # Certificación: Fundamentos de C# con Microsoft
 
-
 ---
 
 ## Certificado C# - ELIANA G
