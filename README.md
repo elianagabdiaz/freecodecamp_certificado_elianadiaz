@@ -1,6 +1,5 @@
 # Certificación: Fundamentos de C# con Microsoft
 
-Repositorio con el certificado oficial obtenido en freeCodeCamp en colaboración con Microsoft.
 
 ---
 
